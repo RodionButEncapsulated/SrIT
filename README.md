@@ -16,14 +16,14 @@ cd SrIT/
 pip3 install -r requirements.txt
 python3 SrIT.py
 ```
-
+<!---
 * Google Colab
 ```
 !git clone https://github.com/RodionButEncapsulated/SrIT.git
 %cd SrIT
 !pip install -r requirements.txt
 !python3 SrIT.py
-```
+``` -->
 
 ## Requisitos:
 
